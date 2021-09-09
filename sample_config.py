@@ -82,7 +82,7 @@ class Config(object):
         TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
 
     THUMB_IMAGE = os.environ.get(
-        "THUMB_IMAGE", "https://telegra.ph/file/ca95524e4734b0d5461b5.jpg"
+        "THUMB_IMAGE", "https://telegra.ph/file/8d8e5ce55ca505057f985.jpg"
     )
 
     # Genius lyrics get this value from https://genius.com/developers both has
